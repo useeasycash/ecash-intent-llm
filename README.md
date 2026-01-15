@@ -22,7 +22,7 @@ We use [uv](https://github.com/astral-sh/uv) for dependency management.
 
 1.  **Clone the repository**
     ```bash
-    git clone https://github.com/useeasy/ecash-intent-llm.git
+    git clone https://github.com/useeasycash/ecash-intent-llm.git
     cd ecash-intent-llm
     ```
 
