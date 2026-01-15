@@ -1,0 +1,10 @@
+model:
+  base_model: "mistralai/Mistral-7B-v0.1"
+  adapter_output_dir: "models/adapters/"
+
+training:
+  batch_size: 4
+  learning_rate: 2e-4
+  epochs: 3
+  lora_r: 16
+  lora_alpha: 32
